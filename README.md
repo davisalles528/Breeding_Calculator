@@ -12,7 +12,6 @@ O código aqui presente auxilia o cientista ao calcular a quantidade de animais 
 * Python 3.7.X
 
 # Utilização
-## Windows
-* Só abrir o arquivo .py
 ## Linux & MacOs & Windows
-* python3 medidor.py
+* Abrir a linha de comando e inserir:
+* `python3 calculadora_cKO_cre-lox.py`
