@@ -1,5 +1,5 @@
 # Calculadora cKO Cre-lox
-* Calculadora biológica que esquematiza os cruzamentos parentais da linhagem cKO Cre-lox
+* Ferramenta biológica que esquematiza os cruzamentos parentais da linhagem cKO Cre-lox
 ---
 
 # Contexto
