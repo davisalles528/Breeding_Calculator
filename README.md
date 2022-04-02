@@ -8,7 +8,7 @@ Um dos animais geneticamente modificados mais utilizados são os animais knockou
 Entretanto, a geração desses animais cKO é complexa e delicada sendo necessários alguns cruzamentos consecutivos envolvendo as linhagens "Cre" e "lox". Caso tiver interesse, pode ler um material sobre estratégias de cruzamento e manutenção da linhagem Cre-lox [aqui](https://www.jax.org/news-and-insights/jax-blog/2011/september/cre-lox-breeding).
 O código aqui presente auxilia o cientista ao calcular a quantidade de animais geradores que serão necessários e esquematiza toda a estratégia de criação.
 
-# Requerimentos
+# Requisitos
 * Python 3.7.X
 
 # Utilização
