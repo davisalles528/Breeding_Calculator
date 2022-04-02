@@ -33,4 +33,5 @@ print("Camundongos Cre+/- STATfl/- fêmeas =", crestatgF2/2)
 print("Camundongos STATfl/fl machos =", bmF2/2)
 print("Camundongos STATfl/fl fêmeas =", bfF2/2)
 print("Camundongos F2 =", F2)
+
 input()
